@@ -51,6 +51,6 @@ For any additional questions, please contact Benito Ywani (Bjim006@gmail.com) an
 **Repository Structure**
 ├── data
 ├── images
-├── King-County_Real-Estate-Project.pdf 
+├── presentation.pdf 
 ├── README.md
 └── kings_county_project.ipynb
