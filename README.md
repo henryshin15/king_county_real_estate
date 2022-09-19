@@ -17,7 +17,7 @@ There were a couple important data prepation steps used for this project. Becaus
 
 A helpful starting point to see which variables could be the best house sale predictors, a correlation heatmap with numerical variables was created and anaylzed. The following numerica variables: bedrooms, bathrooms, sqft_living, floors, sqft_above displayed the strongest correlations to sale price. However, multicollinearity was considered when choosing which of these variables were to be used in modeling.  
 
-![graph1](./images/correlation_map.png)
+![graph1](./images/correlation map.png)
 
 Initial Exploratory Data Analysis methods included visualizing the relationships between predictors and the luxury home sale price. 
 
